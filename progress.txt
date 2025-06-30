@@ -1,0 +1,15 @@
+git init
+to initialize a local folder as git repo
+git add .
+to add all to the next commit
+git commit -m "xxx"
+commit the added with the message xxx
+git push -u origin main
+to send the added to the remote repo branch main
+git pull
+to make the local repo up to date
+git rm
+to delete and add the change to the next commit
+git mv
+to move and add the change to the next commit
+
