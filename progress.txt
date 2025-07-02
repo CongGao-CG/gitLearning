@@ -1,3 +1,5 @@
+git status
+to show which branch and the status
 git init
 to initialize a local folder as git repo
 git add .
@@ -13,5 +15,5 @@ to delete and add the change to the next commit
 git mv
 to move and add the change to the next commit
 git branch
-show all branches
+to show all branches
 
