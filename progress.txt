@@ -12,4 +12,6 @@ git rm
 to delete and add the change to the next commit
 git mv
 to move and add the change to the next commit
+git branch
+show all branches
 
